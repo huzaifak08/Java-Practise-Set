@@ -37,5 +37,11 @@ public class Main {
         int add = addition(num);
         System.out.println(add);
 
+        // Getter and Setters:
+        GetterSetter gs = new GetterSetter();
+        gs.setX(23);
+        int x = gs.getX();
+        System.out.println(x);
+
     }
 }
