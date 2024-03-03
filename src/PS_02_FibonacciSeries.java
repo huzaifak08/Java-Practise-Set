@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FibonacciSeries {
+public class PS_02_FibonacciSeries {
     public static void main(String[] args) {
 
         System.out.print("Enter any number: "); // 5

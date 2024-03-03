@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Factorial {
+public class PS_01_Factorial {
     public static void factorialMethod() {
         System.out.println("Enter a number: ");
         Scanner sc = new Scanner(System.in);
@@ -12,7 +12,7 @@ public class Factorial {
             factorial = factorial * i;
         }
 
-        System.out.println("Factorial is: " + factorial);
+        System.out.println("PS_01_Factorial is: " + factorial);
     }
 
     public static void main(String[] args) {
