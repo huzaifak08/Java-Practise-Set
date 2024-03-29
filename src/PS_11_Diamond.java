@@ -28,6 +28,17 @@ public class PS_11_Diamond {
     }
 
     public static void main(String[] args) {
+
+        //     *
+        //    ***
+        //   *****
+        //  *******
+        // *********
+        //  *******
+        //   *****
+        //    ***
+        //     *
+
         diamondPattern();
     }
 }
